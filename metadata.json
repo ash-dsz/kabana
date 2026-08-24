@@ -1,0 +1,6 @@
+{
+  "name": "Kabana Cafe | Narre Warren",
+  "description": "Modern Melbourne café and authentic Afghan cuisine in Narre Warren, Victoria. Serving signature Qabuli Palow, Manto, artisan coffee, and all-day brunch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
